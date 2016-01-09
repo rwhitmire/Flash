@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Flash.Mvc5</id>
+    <version>1.0.0</version>
+    <title>Flash.Mvc5</title>
+    <authors>Ryan Whitmire</authors>
+    <owners>Ryan Whitmire</owners>
+    <licenseUrl>https://github.com/rwhitmire/Flash/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/rwhitmire/Flash</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Express-like flash messages for ASP.NET MVC</description>
+    <copyright>Copyright 2016</copyright>
+    <tags>mvc flash express message notification notify</tags>
+  </metadata>
+</package>
